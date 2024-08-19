@@ -26,8 +26,7 @@ function doubleArrayElements(numbers) {
 }
 
 // Використання функції
- const exampleArray1 = [1, 2, 3, 4, 5]
- const doubledArray = doubleArrayElements(exampleArray1)
+ const doubledArray = doubleArrayElements(exampleArray)
  console.log('Подвоєні елементи масиву:', doubledArray) // Виведення подвоєних елементів
 
 
